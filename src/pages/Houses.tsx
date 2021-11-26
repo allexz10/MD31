@@ -76,7 +76,7 @@ const Houses = () => {
                   <Link
                     className="houses__link"
                     key={slug}
-                    to={`/charecters/${slug}`}
+                    to={`/characters/${slug}`}
                   >
                     {name}
                   </Link>
